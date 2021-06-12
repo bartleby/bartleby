@@ -1,6 +1,6 @@
 ### Hi, I’m Alex. Nice to meet you.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bartleby&show_icons=true&theme=cobalt)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bartleby&show_icons=true&theme=cobalt) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bartleby&layout=compact&theme=cobalt) -->
 
