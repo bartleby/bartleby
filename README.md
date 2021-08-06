@@ -6,7 +6,7 @@ My career as a programmer started in 2003 with Flash apps developing. In 2006 I 
 
 <li> 👨🏼‍💻 I'm currently working in Magic Solution iOS/macOS Lead </li> 
 <li> 🦄 I'm currently developing my pet-project www.bubble-translate.ru </li> 
-<li> 🦄 I am open to interesting suggestions </li>
+<li> 🍿 I am open to interesting suggestions </li>
 </br>
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bartleby&show_icons=true&theme=cobalt) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bartleby&layout=compact&theme=cobalt) -->
