@@ -15,4 +15,4 @@ My career as a programmer started in 2003 with Flash apps developing. In 2006 I 
 <li> 🚀 <a href=https://idevs.io>iDevs.io</a></li>
 <li> ✉️ <a href=mailto:hello@idevs.io>Email</a></li>
 <br>
-<img alt="Visitor Count" src="https://visitor-badge.glitch.me/badge?page_id=bartleby.bartleby">
+<!-- <img alt="Visitor Count" src="https://visitor-badge.glitch.me/badge?page_id=bartleby.bartleby"> -->
