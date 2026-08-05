@@ -4,9 +4,9 @@ My career as a programmer started in 2003 with Flash apps developing. In 2006 I 
 </br>
 </br>
 
-<li> 👨🏼‍💻 I'm currently working for myself  </li> 
+<li> 👨🏼‍💻 I'm currently self employed  </li> 
 <!-- <li> 🦄 I'm currently developing my pet-project www.appto.you </li> -->
-<li> 🍿 I am open to interesting suggestions </li>
+<li> 🍿 I'm open to interesting offers </li>
 </br>
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bartleby&show_icons=true&theme=cobalt) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bartleby&layout=compact&theme=cobalt) -->
